@@ -1,0 +1,45 @@
+  {MCQ}
+    {form}mcq{/form}
+    {question}What is the root element of an HTML document?{/question}
+    {option}A: Body{/option}
+    {option}B: Head{/option}
+    {option}C: HTML{/option}
+    {option}D: Header{/option}
+    {ans}C{/ans}
+  {/MCQ}
+  {MCQ}
+    {form}choice{/form}
+    {question}What is the most common type of input in HTML?{/question}
+    {option}A: Password{/option}
+    {option}B: Text{/option}
+    {option}C: Check Box{/option}
+    {option}D: Radio{/option}
+    {ans}B{/ans}
+  {/MCQ}
+  {MCQ}
+    {form}choice{/form}
+    {question}What does the head element in HTML contain?{/question}
+    {option}A: All the metadata about the webpage such as page title, description and keywords.{/option}
+    {option}B: All the visible content of the webpage, such as text, images, and videos.{/option}
+    {option}C: Contains the site's logo, navigation menu,and other important information.{/option}
+    {option}D: It's the topmost element and everything else on the page is contained within it.{/option}
+    {ans}A{/ans}
+  {/MCQ}
+  {MCQ}
+    {form}choice{/form}
+    {question}What is the command for setting font size in CSS?{/question}
+    {option}A: font-family{/option}
+    {option}B: font-size{/option}
+    {option}C: font-weight{/option}
+    {option}D: font-style{/option}
+    {ans}B{/ans}
+  {/MCQ}
+  {MCQ}
+    {form}choice{/form}
+    {question}What are radio buttons used for?{/question}
+    {option}A: Collecting boolean data - either true or false.{/option}
+    {option}B: Drop-down menus where the user can select one or more options.{/option}
+    {option}C: Allowing the user to select files to upload.{/option}
+    {option}D: When there are multiple options and the user can only select one of them.{/option}
+    {ans}D{/ans}
+  {/MCQ}

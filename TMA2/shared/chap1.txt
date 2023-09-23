@@ -1,0 +1,37 @@
+{subchap}
+    {heading}1.1 Internet History{/heading}
+    {notes}
+    {content}In the late 1960s, the U.S. Department of Defense developed a computer networking system called ARPANET. 
+    This was the precursor to the internet and allowed for the first electronic communication between computers.{/content}
+    {content}In the 1970s and 1980s, ARPANET expanded to include more universities and research institutions, 
+    and the TCP/IP protocol was developed as a way for different types of computers to communicate with each other over the network.{/content}
+    {content}In 1983, ARPANET switched from the NCP protocol to TCP/IP, and the modern internet was born.{/content}
+    {content}The first commercial internet service provider (ISP), called The World, was launched in 1989.{/content}
+    {content}To access the internet, users need a device that is connected to the network, such as a computer, 
+    smartphone, or tablet, as well as an internet service provider (ISP) that provides access to the network.{/content}
+    {content}Data is transmitted over the internet in packets, which are small units of data that are sent and 
+    received by different computers on the network.{/content}
+    {content}The internet is made up of a vast network of interconnected computer networks, including private networks, 
+    government networks, and the public internet.{/content}
+    {/notes}
+{/subchap}
+
+{subchap}
+  {heading}1.2 Internet Servers{/heading}{notes}
+  {content}A web server is a computer system that is responsible for delivering web pages to users on the internet.{/content}
+  {content}When a user types a web address into their browser, the browser sends a request to the appropriate web server, asking for the page to be delivered.{/content}
+  {content}The web server then retrieves the necessary files from the server's hard drive and sends them back to the user's browser in the form of an HTML file.{/content}
+  {content}Web servers are typically dedicated computers that are optimized for delivering web pages quickly and efficiently.{/content}
+  {content}The Apache web server is one of the most popular web servers in use today, and it is open-source software that can be installed on a variety of operating systems.{/content}
+  {content}Another popular web server is Nginx, which is known for its high performance and scalability.{/content}
+  {content}Web servers can also be used to deliver other types of content, such as images, videos, and audio files.{/content}
+  {content}Some web servers are designed to handle specific types of web applications, such as e-commerce platforms or content management systems.{/content}
+  {content}Web servers can be configured to handle different types of requests, such as static files or dynamic content that requires processing by a scripting language.{/content}
+  {content}Web servers can also be secured with various security measures, such as SSL certificates and firewalls, to protect against hacking and other security threats.{/content}
+  {content}A client, such as a web browser, sends a request to the web server for a specific resource, such as a web page or an image. The request includes the URL (Uniform Resource Locator) of the resource being requested.{/content}
+  {content}The web server receives the request and determines which resource the client is asking for. The server then retrieves the requested resource from the file system or a database, if necessary.{/content}
+  {content}The web server processes the resource, which may involve executing server-side scripts or querying a database. For example, if the requested resource is a dynamic web page, the server may need to execute a PHP script or a database query to generate the HTML code for the page.{/content}
+  {content}Once the resource has been processed, the web server sends the response back to the client. The response typically includes an HTTP status code indicating whether the request was successful or not, along with any content that was requested (such as the HTML code for a web page or the data for an API request).{/content}
+  {content}If the requested resource is a static file, such as an image or a CSS stylesheet, the web server simply sends the file to the client. If the requested resource is a dynamic web page or other content, the server generates the content on the fly and sends it back to the client.{/content}
+  {content}Once the client receives the response from the web server, it can then render the content in the browser or process it in some other way (such as using API data in an application).{/content}
+{/notes}{/subchap}
