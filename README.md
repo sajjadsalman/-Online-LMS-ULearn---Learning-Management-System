@@ -9,7 +9,7 @@ There are 2 projects in this repo:
 1- Bookmark manager (Part 1) <br/>
 2- ULearn (Part 2) <br/>
 
-All of these projects are built in:
+All of these projects are built in: <br/>
 1- HTML<br/>
 2- CSS<br/>
 3- Javascript<br/>
