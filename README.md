@@ -1,6 +1,6 @@
 # ULearn---Learning-Management-System
 
-If you want to access these projects that are hosted on a server, you can visit this link: https://comp466tma2.000webhostapp.com/
+If you want to access these projects that are hosted on a server, you can visit this link: https://comp466tma2.000webhostapp.com/part2/welcome.php
 
 The details about the projects are provided there and in tma2.htm
 
